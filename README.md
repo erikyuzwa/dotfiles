@@ -1,9 +1,10 @@
 # dotfiles
 Hey @eyuzwa, what settings do you use?
 
-- `vscode.js` - Visual Studo Code settings open the `settings.json` and cut & paste
+- `vscode.js`: Visual Studo Code settings open the `settings.json` and cut & paste
 _(note: for recordings, I usually set the window zoom level to 5)_
-- `.jshintrc` - A drop-in for any JS project
+- `.jshintrc`: A drop-in for any JS project
+- `.prettierignore` and `.prettierrc`: stuff for `Prettier`
 
 # References
 
