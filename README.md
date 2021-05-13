@@ -5,6 +5,7 @@ Hey @eyuzwa, what settings do you use?
 _(note: for recordings, I usually set the window zoom level to 5)_
 - `.jshintrc`: A drop-in for any JS project
 - `.prettierignore` and `.prettierrc`: stuff for `Prettier`
+- `web.xml`: a starter for any Java `WEB-INF` folder
 
 # References
 
