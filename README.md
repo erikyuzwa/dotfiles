@@ -2,10 +2,12 @@
 Hey @eyuzwa, what settings do you use?
 
 - `vscode.js` - Visual Studo Code settings open the `settings.json` and cut & paste
+_(note: for recordings, I usually set the window zoom level to 5)_
+- `.jshintrc` - A drop-in for any JS project
 
 # References
 
-- Originally based from @wesbos repo idea - https://github.com/wesbos/dotfiles
+- Originally based from a @wesbos repo idea - https://github.com/wesbos/dotfiles
 
 # LICENSE
 
